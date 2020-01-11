@@ -1,0 +1,86 @@
+body{font-family: 'Josefin Sans', sans-serif;
+     color: #FF5A09;
+      background-color: black;
+      margin: 0 auto;
+      width: 960px;}
+h1{color: lightgreen;
+       font-family: 'Saira Stencil One', cursive;
+       margin: 10px 20px;}
+ h2{color: red;
+ 	font-family: 'Saira Stencil One',cursive;}
+nav ul{font-family: 'Indie Flower', cursive;
+padding: 0;}
+nav li{display: inline;
+float: left;}
+nav a:link,nav a:visited{background-color: red;
+color:white;
+display: block;
+width: 230px;
+text-align: center;
+text-decoration:none;
+padding: 10px 0; 
+}
+nav a:hover{color: orange;
+background-color: #6200EE;}
+header{background-image: url('media/header.jpg');
+height: 77px;
+margin-bottom: 70px;}
+header h1{color: white;
+margin-left: 27px; 
+margin-top: 27px;
+font-size: 32px;}
+footer{margin: 40px 0;
+background-color: #a39274;
+color: white;}
+footer nav a:link,footer nav a:visited{color: #dfd8c8;
+text-decoration:none;
+display: block;
+width: 230px;
+text-align: center;
+background-color: #a39274;
+}
+footer nav a:hover{color: red;
+}
+a:link,a:visited{text-decoration: none;
+	color: white;
+	font-weight: bold;}
+a:hover{color: orange;}
+label{display: block;
+width: 300px;
+float: left;
+text-align: right;
+margin: 10px 5px;
+clear: left;}
+input,textarea,select{margin: 10px 5px;
+vertical-align: middle;}
+#sub{background-color: lightgreen;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 340px;
+  cursor: pointer;
+}
+table,td,th{border: 1px solid white;
+border-collapse: collapse;}
+table{width: 800px;
+	  height: relative;
+	  border-spacing: 0px;
+	  text-align: center;}
+th{color: white;
+font-family: 'Saira Stencil One', cursive;}
+.cap{color: khaki;
+font-size: larger;}
+#n1 a:link,#n1 a:visited{background-color: #368cbf;
+color:black;
+display: block;
+width: 320px;
+text-align: center;
+text-decoration:none;
+padding: 10px 0;}
+#n1 a:hover{color: #d4d4dc;
+background-color: #393f4d;}
+#lib{background-color: #212930;}
